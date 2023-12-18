@@ -1,4 +1,4 @@
-Set to use this code
+Step to use this code
 1. First clone the file
 2. Then open it with VS code
 3. And then open the terminal and run npm install
