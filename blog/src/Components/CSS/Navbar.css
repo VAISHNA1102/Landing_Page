@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+    color: #5E5151;
+    font-family: 'Space Grostek';
+    font-size: 25px;
+  }
+  
+  .navbar-left img {
+    max-height: 70px; /* Adjust the size of your logo */
+  }
+  
+  .navbar-right a {
+    margin-right: 15px;
+    color: #5E5151;
+    text-decoration: none;
+  }
+  
+  .navbar-right a:hover {
+    color: #68C2B4; /* Change the color on hover */
+  }
+  

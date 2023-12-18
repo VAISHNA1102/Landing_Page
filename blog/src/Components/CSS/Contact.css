@@ -1,0 +1,24 @@
+.contact{
+    display: flex;
+    margin: 0 15%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.text p{
+    font-family: Marcellus, sans-serif;
+    font-size: small;
+    color: #716464c8;
+}
+.CLeft{
+    width: 200%;
+    height:352px;
+    margin: 10px 52px 25px 24px ;
+    border-radius: 20px;
+    background-color: grey;
+}
+
+.CRight ul li{
+    font-family: Marcellus, sans-serif;
+    font-size: small;
+    margin-bottom: 7px;
+}
